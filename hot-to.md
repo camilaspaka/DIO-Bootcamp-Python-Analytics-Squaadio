@@ -9,3 +9,17 @@ https://github.com/digitalinnovationone/netflix-dataset/tree/main/raw
 .Pip 24.0 (já tinha instalado)
 
 .Pandas(tenho instalado tbm por conta do anaconda)
+
+.Não preciso de chamar o Py já que to aqui no Pycharm :P
+
+#Conceitos
+
+.Virtual Enviroment (ambiente isolado)
+
+#criar um ambiente virtual
+
+.py -m venv venv (funcionou perfeitamente <3)
+
+#ativar o ambiente virtual
+
+.venv/scripts/activate(funcionou perfeitamente)
