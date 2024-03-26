@@ -31,3 +31,7 @@ https://github.com/digitalinnovationone/netflix-dataset/tree/main/raw
 #raw pasta
 
 .consegui copiar toda a pasta via fork(amén)
+
+#data ready
+
+dados prontos, refinados
