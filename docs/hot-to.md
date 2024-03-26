@@ -39,7 +39,7 @@ dados prontos, refinados, mas não necessariamente prontos pra uso
 #data raw
 quando sai, vai para script e vira data ready
 
-#pip
+#pip install " "
 O melhor carteiro do mundo, segundo o felipão da Dio
 
 #ler e escrever em arquivos de excell
