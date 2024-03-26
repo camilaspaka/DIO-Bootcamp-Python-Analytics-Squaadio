@@ -23,3 +23,11 @@ https://github.com/digitalinnovationone/netflix-dataset/tree/main/raw
 #ativar o ambiente virtual
 
 .venv/scripts/activate(funcionou perfeitamente)
+
+#dados
+
+.data raw- saiu do sistema ou foi enviado assim, forma crua e bruta do dado
+
+#raw pasta
+
+.consegui copiar toda a pasta via fork(amén)
