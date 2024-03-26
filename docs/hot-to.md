@@ -34,4 +34,5 @@ https://github.com/digitalinnovationone/netflix-dataset/tree/main/raw
 
 #data ready
 
-dados prontos, refinados
+dados prontos, refinados, mas não necessariamente prontos pra uso
+
