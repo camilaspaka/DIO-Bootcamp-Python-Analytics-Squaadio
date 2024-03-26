@@ -36,3 +36,5 @@ https://github.com/digitalinnovationone/netflix-dataset/tree/main/raw
 
 dados prontos, refinados, mas não necessariamente prontos pra uso
 
+#data raw
+quando sai, vai para script e vira data ready
