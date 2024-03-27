@@ -53,3 +53,6 @@ mais performatica, le e escrever tambem
 
 ### git ignore
 Deve ser utilizado para jamais subir a pasta raw, no caso como é um projeto vou subir de toda forma para que possa ser analizado o que eu fiz
+
+### Pycharm x VsCode
+Em um funcionava tudo ok no outro nem tanto, mas muita persistencia fez funcionar em ambos...amén?
