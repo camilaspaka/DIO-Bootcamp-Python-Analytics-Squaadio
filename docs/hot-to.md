@@ -56,3 +56,6 @@ Deve ser utilizado para jamais subir a pasta raw, no caso como é um projeto vou
 
 ### Pycharm x VsCode
 Em um funcionava tudo ok no outro nem tanto, mas muita persistencia fez funcionar em ambos...amén?
+
+### repositorio do professor 
+https://github.com/digitalinnovationone/netflix-test-resolved/blob/main/src/scripts/main.py

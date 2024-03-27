@@ -46,4 +46,4 @@ else:
     else:
         print("Nenhum dado para ser salvo")
 
-#Deus sabe o quanto eu lutei pra esse código dar certo no Pycharm e o quanto lutei com o import pandas kkkk 
+#Deus sabe o quanto eu lutei pra esse código dar certo no Pycharm e o quanto lutei com o import pandas kkkk
